@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "eeducateapp"
+    }
+  },
+  "defaultProject": "eeducateapp",
+  "cli": {
+    "analytics": "3596c86c-a86e-4b86-af20-98957133e639"
+  }
 }
